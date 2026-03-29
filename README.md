@@ -13,7 +13,7 @@ This project is a small RAG (Retrieval-Augmented Generation) demo using LangChai
 
 ## Prerequisites
 
-1. Python 3.10+ (your environment currently uses Python 3.12)
+1. Python 3.10+ (My environment currently uses Python 3.12)
 2. A Python environment (venv/conda)
 3. Ollama installed (for the Ollama parts)
 4. Internet access (the loader fetches a LangSmith documentation page)
